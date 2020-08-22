@@ -1,4 +1,3 @@
 # new
-Descript
 Akarsh
 Vaibhav
